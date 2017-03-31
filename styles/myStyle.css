@@ -1,0 +1,176 @@
+body 
+{
+    direction:rtl;
+    font-family: "Alef Hebrew",
+               “Helvetica Neue”,
+               Helvetica,
+               Arial,
+               sans-serif;
+    background-color:#f7fffe;
+    background-image:url(../image/ofir3-01.png);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    padding-left:500px;
+    
+
+
+  
+    
+    
+}
+
+#container
+{
+       background-image:url(../image/ofir3-01.png);
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+    background-position:center;
+    padding-left:500px;
+
+    margin: 0 auto;
+    width: 900px;
+    text-align:right;
+}
+.peregraf
+{
+    
+    display: block;
+    margin-top:100px;
+    margin-left:400px;
+    margin-right:100px;
+    /*margin-right:50px;*/    
+}
+
+#picher_japan
+{
+    color:yellow;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -1755px; 
+
+    
+
+
+	-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+
+
+
+    
+}
+
+#picher_japan:hover{
+
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -1550px; 
+}
+
+#picher_cohe
+{
+    color:yellow;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -250px; 
+
+    	-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+    
+}
+
+#picher_cohe:hover
+{
+    
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -5px; 
+    
+}
+#my_famely
+{
+    color:yellow;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -660px;
+
+    	-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+}
+#my_famely:hover
+{
+    color:yellow;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px -480px;
+}
+#my_frand
+{
+    color:yellow;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px 949px;
+
+    	-webkit-transition: all 1s ease;
+-moz-transition: all 1s ease;
+-ms-transition: all 1s ease;
+-o-transition: all 1s ease;
+transition: all 1s ease;
+}
+#my_frand:hover
+{
+    color:yellow;
+    display: block;    float: right;
+
+    background-image:url(../image/tmunot3.jpg);
+    height:160px;
+    width:200px;
+    background-position:700px 1120px;
+}
+#ending
+{
+    margin-right:20px;
+    display: inline;
+    float:right;
+
+}
+#facbook
+{
+    
+    
+    background-image:url(../image/f2.png);
+    height:50px;
+    width:50px;
+    display:inline;
+    float:right;
+}
